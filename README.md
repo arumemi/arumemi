@@ -1,7 +1,14 @@
-## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+## Hi there 👋 
+
+My name is Ese,  I studied at 'The British School of Creative Arts and Tecnology' (EBAC). I'm interested in all  things about Front-end and Back-end Development!
+I am English and Portuguese Bilingual.
+
+- 🔭 I’m currently working on [White-Edu](I WILL INCLUDE THEW LINK SOON), Building a fully responsive website for an Organization
+- 🌱 I’m currently learning ...BACK-END DEVELOPMENT
+- 👯 I’m looking to collaborate  with YOU!
+- 
+  -📫 How to reach me: esefapohunda@gmail.com
+  
 <!--
 **arumemi/arumemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
